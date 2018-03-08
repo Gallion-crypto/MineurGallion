@@ -1,0 +1,43 @@
+C:\Users\kalic\Desktop\Mineur Gallion\Mineur Gallion\bin\Release\Mineur Gallion.exe.config
+C:\Users\kalic\Desktop\Mineur Gallion\Mineur Gallion\bin\Release\Mineur Gallion.exe
+C:\Users\kalic\Desktop\Mineur Gallion\Mineur Gallion\bin\Release\Mineur Gallion.pdb
+C:\Users\kalic\Desktop\Mineur Gallion\Mineur Gallion\bin\Release\Mineur Gallion.xml
+C:\Users\kalic\Desktop\Mineur Gallion\Mineur Gallion\obj\Release\Mineur Gallion.vbprojResolveAssemblyReference.cache
+C:\Users\kalic\Desktop\Mineur Gallion\Mineur Gallion\obj\Release\Mineur_Gallion.Form1.resources
+C:\Users\kalic\Desktop\Mineur Gallion\Mineur Gallion\obj\Release\Mineur_Gallion.Resources.resources
+C:\Users\kalic\Desktop\Mineur Gallion\Mineur Gallion\obj\Release\Mineur Gallion.vbproj.GenerateResource.Cache
+C:\Users\kalic\Desktop\Mineur Gallion\Mineur Gallion\obj\Release\Mineur Gallion.exe
+C:\Users\kalic\Desktop\Mineur Gallion\Mineur Gallion\obj\Release\Mineur Gallion.xml
+C:\Users\kalic\Desktop\Mineur Gallion\Mineur Gallion\obj\Release\Mineur Gallion.pdb
+C:\Users\kalic\Desktop\MineurGallion\MineurGallion\bin\Release\Mineur Gallion.exe.config
+C:\Users\kalic\Desktop\MineurGallion\MineurGallion\obj\Release\Mineur Gallion.exe
+C:\Users\kalic\Desktop\MineurGallion\MineurGallion\obj\Release\Mineur Gallion.xml
+C:\Users\kalic\Desktop\MineurGallion\MineurGallion\obj\Release\Mineur Gallion.pdb
+C:\Users\kalic\Desktop\MineurGallion\MineurGallion\bin\Release\Mineur Gallion.exe
+C:\Users\kalic\Desktop\MineurGallion\MineurGallion\bin\Release\Mineur Gallion.pdb
+C:\Users\kalic\Desktop\MineurGallion\MineurGallion\bin\Release\Mineur Gallion.xml
+C:\Users\kalic\Desktop\MineurGallion\MineurGallion\obj\Release\Mineur_Gallion.Resources.resources
+C:\Users\kalic\Desktop\MineurGallion\MineurGallion\obj\Release\Mineur Gallion.vbproj.GenerateResource.Cache
+C:\Users\kalic\Desktop\MineurGallion\MineurGallion\obj\Release\Mineur_Gallion.CréerAdresse.resources
+C:\Users\kalic\Desktop\MineurGallion\MineurGallion\obj\Release\Mineur_Gallion.Mineur.resources
+C:\Users\kalic\Desktop\MineurGallion\MineurGallion\bin\Release\Mineur Gallion.exe.manifest
+C:\Users\kalic\Desktop\MineurGallion\MineurGallion\bin\Release\Mineur Gallion.application
+C:\Users\kalic\Desktop\MineurGallion\MineurGallion\obj\Release\Mineur Gallion.exe.manifest
+C:\Users\kalic\Desktop\MineurGallion\MineurGallion\obj\Release\Mineur Gallion.application
+C:\Users\kalic\Desktop\MineurGallion\MineurGallion\obj\Release\Mineur Gallion.vbprojResolveAssemblyReference.cache
+C:\Users\kalic\Desktop\Mineur Gallion\MineurGallion\bin\Release\Mineur Gallion.exe.config
+C:\Users\kalic\Desktop\Mineur Gallion\MineurGallion\obj\Release\Mineur Gallion.exe
+C:\Users\kalic\Desktop\Mineur Gallion\MineurGallion\obj\Release\Mineur Gallion.xml
+C:\Users\kalic\Desktop\Mineur Gallion\MineurGallion\obj\Release\Mineur Gallion.pdb
+C:\Users\kalic\Desktop\Mineur Gallion\MineurGallion\bin\Release\Mineur Gallion.exe.manifest
+C:\Users\kalic\Desktop\Mineur Gallion\MineurGallion\bin\Release\Mineur Gallion.application
+C:\Users\kalic\Desktop\Mineur Gallion\MineurGallion\bin\Release\Mineur Gallion.exe
+C:\Users\kalic\Desktop\Mineur Gallion\MineurGallion\bin\Release\Mineur Gallion.pdb
+C:\Users\kalic\Desktop\Mineur Gallion\MineurGallion\bin\Release\Mineur Gallion.xml
+C:\Users\kalic\Desktop\Mineur Gallion\MineurGallion\obj\Release\Mineur Gallion.vbprojResolveAssemblyReference.cache
+C:\Users\kalic\Desktop\Mineur Gallion\MineurGallion\obj\Release\Mineur_Gallion.CréerAdresse.resources
+C:\Users\kalic\Desktop\Mineur Gallion\MineurGallion\obj\Release\Mineur_Gallion.Mineur.resources
+C:\Users\kalic\Desktop\Mineur Gallion\MineurGallion\obj\Release\Mineur_Gallion.Resources.resources
+C:\Users\kalic\Desktop\Mineur Gallion\MineurGallion\obj\Release\Mineur Gallion.vbproj.GenerateResource.Cache
+C:\Users\kalic\Desktop\Mineur Gallion\MineurGallion\obj\Release\Mineur Gallion.exe.manifest
+C:\Users\kalic\Desktop\Mineur Gallion\MineurGallion\obj\Release\Mineur Gallion.application
