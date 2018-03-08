@@ -31,7 +31,7 @@ Public Class Mineur
         p.Start()
 
         ExecuteLaCommande("cd " & Application.StartupPath & "\binaire\miner\")
-        ExecuteLaCommande("minergate-cli -o stratum+tcp://gallion.ddns.net:6012 -u " & adresse.text & " -t 11")
+        ExecuteLaCommande("minergate-cli -o stratum+tcp://gallion.ddns.net:3334 -u " & adresse.text & " -t 11")
      
         StopMinage.visible = true
         LancerMineur.Visible = false
